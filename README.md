@@ -2,7 +2,7 @@
 
 ## About Me
 🎓 I'm passionate about technology and software development
-💻 Full-stack developer with expertise in modern web technologies
+💻 Expertise in modern technologies
 🌱 Always learning and growing in the tech world
 
 ## 🛠️ Technologies & Tools
