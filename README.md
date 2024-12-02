@@ -20,7 +20,6 @@
 
 ## 📫 How to reach me:
 - LinkedIn: [Tran Anh Hao](https://www.linkedin.com/in/trananhhao/)
-- Email: hao.cse@gmail.com
 - Website: [hao-tran.com](https://hao-tran.com)
 
 ---
