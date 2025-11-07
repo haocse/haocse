@@ -3,6 +3,8 @@
 ## About Me
 🎓 I'm passionate about technology and software development
 💻 Expertise in modern technologies
+📱 Experienced in mobile and React Native development
+🔧 Building efficient embedded systems solutions
 🌱 Always learning and growing in the tech world
 
 ## 🛠️ Technologies & Tools
@@ -14,6 +16,11 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Mobile Development](https://img.shields.io/badge/-Mobile%20Development-000000?style=flat-square&logo=android&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/-Embedded%20Systems-FF6F00?style=flat-square&logo=arduino&logoColor=white)
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=haocse&show_icons=true&theme=radical)
